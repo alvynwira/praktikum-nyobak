@@ -1,0 +1,96 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: darkred;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #fff !important;
+}
+
+
+.profileku {
+    background-color: #ffe3e3;
+    padding: 3rem 1rem;
+}
+
+.profileku img {
+    border: 5px solid darkred;
+}
+
+.profileku h1 {
+    color: darkred;
+    font-weight: bold;
+}
+
+#journey {
+    background-color:#ffe3e3 ;
+}
+
+.about-me p {
+    background-color: #ffe3e3;
+    padding: 1rem;
+    border-radius: 8px;
+    border: 3px solid darkred;
+}
+
+.timeline-panel {
+    border: 3px solid darkred;  
+}
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card {
+    border: 3px solid darkred;
+    border-radius: 8px;
+}
+
+.card-text {
+    color: darkred;
+}
+
+#photography {
+    background-color:#ffe3e3 ;
+}
+.carousel-item  {
+ border: 3px solid darkred;
+};
+
+.contact-form {
+    background-color: #ffe3e3;
+    padding: 2rem;
+    border-radius: 8px;
+}
+
+.border-dark-red {
+    border: 3px solid #8B0000; 
+    }
+
+.overlay-dark-red {
+    background-color: #ffe3e3;
+}
+.sosmed {
+    color: #8B0000;
+}
+footer {
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+}
+
+footer .social-icons a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+footer .social-icons a:hover {
+    color: #ffcccc;
+}
